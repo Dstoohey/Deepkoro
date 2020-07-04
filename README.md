@@ -1,7 +1,5 @@
 **Deepkoro: Using Deep Language Models to Understand the Heart of Religion**
-
 ![Deepkoro Logo](deepkoro_logo.png)
-
 **Overview:**
 
 This document will provide a sense of the general motivation for the project. It will also explain, at a high level, the technologies used and techniques deployed, as well as potential takeaways and areas for further improvement/exploration.
@@ -40,6 +38,10 @@ OpenAI ([https://openai.com/blog/better-language-models/](https://openai.com/blo
 
 Houston Smith ([https://books.google.com/books/about/The\_World\_s\_Religions.html?id=1G4eNRWYT6gC](https://books.google.com/books/about/The_World_s_Religions.html?id=1G4eNRWYT6gC))
 
-[Ludwik Zamenhof](https://www.google.com/search?q=L.+L.+Zamenhof&amp;stick=H4sIAAAAAAAAAONgVuLQz9U3MMnJK37EaMwt8PLHPWEprUlrTl5jVOHiCs7IL3fNK8ksqRQS42KDsnikuLjgmngWsfL56CkAUVRibmpeRn4aAPiek4dTAAAA)([https://uea.org/](https://uea.org/))
+Ludwik Zamenhof ([https://uea.org/](https://uea.org/))
 
 Gwern ([https://www.gwern.net/GPT-2-music](https://www.gwern.net/GPT-2-music))
+
+
+
+
